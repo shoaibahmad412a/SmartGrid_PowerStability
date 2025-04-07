@@ -179,6 +179,13 @@ Deploying lightweight versions of these models on **IoT edge devices** could ena
 ### 🧪 6. Expansion to Multimodal Datasets
 Incorporating other data sources like **weather conditions, historical fault logs, and energy pricing** could enrich the feature set, enabling **multi-factor stability prediction models**.
 
+
+### About ME
+Shoaib Ahmad
+BS-EE 2018-22
+Power System Analysis, Power Energy Optimzation
+
+
 ---
 
 > This project is a step toward **intelligent energy systems** — making power grids not just smarter, but also safer, more sustainable, and proactive.
