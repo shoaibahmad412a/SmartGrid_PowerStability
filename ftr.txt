@@ -1,0 +1,7 @@
+Gained hands-on exposure to the operational structure of Pakistan's electrical distribution network, including grid stations, feeders, and consumer connections.
+
+Analyzed system components responsible for voltage regulation, fault tolerance, and load balancing within GEPCO’s distribution framework.
+
+Studied key aspects of power system stability, including reactive power management, frequency control, and blackout prevention mechanisms.
+
+Observed real-time SCADA system operations and power flow monitoring, improving understanding of grid reliability and fault localization techniques.
